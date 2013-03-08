@@ -1,6 +1,6 @@
 {
   "name": "co-client",
-  "version": "0.0.1",
+  "version": "0.0.1-1",
   "description": "Client-side compound",
   "main": "index.js",
   "dependencies": {
